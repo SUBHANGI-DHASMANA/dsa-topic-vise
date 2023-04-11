@@ -40,5 +40,6 @@ vector<int> getSecondOrderElements(int n, vector<int> a) {
 
 int main() 
 {
+    // https://bit.ly/3o2FfbE
     return 0;
 }
